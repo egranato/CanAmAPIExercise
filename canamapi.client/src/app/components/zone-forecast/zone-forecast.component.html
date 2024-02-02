@@ -1,0 +1,54 @@
+<div class="row">
+  <p>
+    <a
+      routerLink=""
+      class="link-primary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
+      >Go Back</a
+    >
+  </p>
+</div>
+<div class="row">
+  <div class="col">
+    <h1>{{ name }}</h1>
+  </div>
+</div>
+<div class="row">
+  <ul class="nav nav-tabs">
+    <li class="nav-item">
+      <a
+        class="nav-link"
+        [class.active]="tab === 'daily'"
+        (click)="setTab('daily')"
+        >Daily</a
+      >
+    </li>
+    <li class="nav-item">
+      <a
+        class="nav-link"
+        [class.active]="tab === 'hourly'"
+        (click)="setTab('hourly')"
+        >Hourly</a
+      >
+    </li>
+  </ul>
+</div>
+<div class="row" *ngIf="tab === 'daily'">
+  <div *ngFor="let period of dailyForcast" class="card border-light mb-3 col-6">
+    <div class="card-header">{{ period.date | date }}</div>
+    <div class="card-body">
+      <h5>High: {{ period.max }}°</h5>
+      <h5>Low: {{ period.min }}°</h5>
+    </div>
+  </div>
+</div>
+<div class="row" *ngIf="tab === 'hourly'">
+  <div
+    *ngFor="let period of hourlyForcast"
+    class="card border-light mb-3 col-3"
+  >
+    <div class="card-header">{{ period.date | date : "medium" }}</div>
+    <div class="card-body">
+      <h5>Temperature: {{ period.value }}°</h5>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,6 @@
+@CanAmAPI.Server_HostAddress = http://localhost:5173
+
+GET {{CanAmAPI.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

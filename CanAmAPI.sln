@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanAmAPI.Server", "CanAmAPI.Server\CanAmAPI.Server.csproj", "{E3232A9D-3CAB-4706-AD29-74D8AA22D842}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "canamapi.client", "canamapi.client\canamapi.client.esproj", "{DA3AFD5E-9F6D-41FF-B488-81D85C69C128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3232A9D-3CAB-4706-AD29-74D8AA22D842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3232A9D-3CAB-4706-AD29-74D8AA22D842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3232A9D-3CAB-4706-AD29-74D8AA22D842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3232A9D-3CAB-4706-AD29-74D8AA22D842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3AFD5E-9F6D-41FF-B488-81D85C69C128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3AFD5E-9F6D-41FF-B488-81D85C69C128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3AFD5E-9F6D-41FF-B488-81D85C69C128}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DA3AFD5E-9F6D-41FF-B488-81D85C69C128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3AFD5E-9F6D-41FF-B488-81D85C69C128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3AFD5E-9F6D-41FF-B488-81D85C69C128}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E91905B2-5A22-4C59-8280-9987070FD7C2}
+	EndGlobalSection
+EndGlobal

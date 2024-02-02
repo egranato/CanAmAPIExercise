@@ -1,0 +1,5976 @@
+{
+  "@context": {
+    "@version": "1.1"
+  },
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "https://api.weather.gov/zones/county/COC001",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC001",
+        "@type": "wx:Zone",
+        "id": "COC001",
+        "type": "county",
+        "name": "Adams",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC003",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC003",
+        "@type": "wx:Zone",
+        "id": "COC003",
+        "type": "county",
+        "name": "Alamosa",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC005",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC005",
+        "@type": "wx:Zone",
+        "id": "COC005",
+        "type": "county",
+        "name": "Arapahoe",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC007",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC007",
+        "@type": "wx:Zone",
+        "id": "COC007",
+        "type": "county",
+        "name": "Archuleta",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC009",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC009",
+        "@type": "wx:Zone",
+        "id": "COC009",
+        "type": "county",
+        "name": "Baca",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC011",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC011",
+        "@type": "wx:Zone",
+        "id": "COC011",
+        "type": "county",
+        "name": "Bent",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC013",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC013",
+        "@type": "wx:Zone",
+        "id": "COC013",
+        "type": "county",
+        "name": "Boulder",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC014",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC014",
+        "@type": "wx:Zone",
+        "id": "COC014",
+        "type": "county",
+        "name": "Broomfield",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC015",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC015",
+        "@type": "wx:Zone",
+        "id": "COC015",
+        "type": "county",
+        "name": "Chaffee",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC017",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC017",
+        "@type": "wx:Zone",
+        "id": "COC017",
+        "type": "county",
+        "name": "Cheyenne",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GLD"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GLD"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC019",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC019",
+        "@type": "wx:Zone",
+        "id": "COC019",
+        "type": "county",
+        "name": "Clear Creek",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC021",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC021",
+        "@type": "wx:Zone",
+        "id": "COC021",
+        "type": "county",
+        "name": "Conejos",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC023",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC023",
+        "@type": "wx:Zone",
+        "id": "COC023",
+        "type": "county",
+        "name": "Costilla",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC025",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC025",
+        "@type": "wx:Zone",
+        "id": "COC025",
+        "type": "county",
+        "name": "Crowley",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC027",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC027",
+        "@type": "wx:Zone",
+        "id": "COC027",
+        "type": "county",
+        "name": "Custer",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC029",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC029",
+        "@type": "wx:Zone",
+        "id": "COC029",
+        "type": "county",
+        "name": "Delta",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC031",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC031",
+        "@type": "wx:Zone",
+        "id": "COC031",
+        "type": "county",
+        "name": "Denver",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC033",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC033",
+        "@type": "wx:Zone",
+        "id": "COC033",
+        "type": "county",
+        "name": "Dolores",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC035",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC035",
+        "@type": "wx:Zone",
+        "id": "COC035",
+        "type": "county",
+        "name": "Douglas",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC037",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC037",
+        "@type": "wx:Zone",
+        "id": "COC037",
+        "type": "county",
+        "name": "Eagle",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC039",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC039",
+        "@type": "wx:Zone",
+        "id": "COC039",
+        "type": "county",
+        "name": "Elbert",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC041",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC041",
+        "@type": "wx:Zone",
+        "id": "COC041",
+        "type": "county",
+        "name": "El Paso",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC043",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC043",
+        "@type": "wx:Zone",
+        "id": "COC043",
+        "type": "county",
+        "name": "Fremont",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC045",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC045",
+        "@type": "wx:Zone",
+        "id": "COC045",
+        "type": "county",
+        "name": "Garfield",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC047",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC047",
+        "@type": "wx:Zone",
+        "id": "COC047",
+        "type": "county",
+        "name": "Gilpin",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC049",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC049",
+        "@type": "wx:Zone",
+        "id": "COC049",
+        "type": "county",
+        "name": "Grand",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC051",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC051",
+        "@type": "wx:Zone",
+        "id": "COC051",
+        "type": "county",
+        "name": "Gunnison",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC053",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC053",
+        "@type": "wx:Zone",
+        "id": "COC053",
+        "type": "county",
+        "name": "Hinsdale",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC055",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC055",
+        "@type": "wx:Zone",
+        "id": "COC055",
+        "type": "county",
+        "name": "Huerfano",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC057",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC057",
+        "@type": "wx:Zone",
+        "id": "COC057",
+        "type": "county",
+        "name": "Jackson",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC059",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC059",
+        "@type": "wx:Zone",
+        "id": "COC059",
+        "type": "county",
+        "name": "Jefferson",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC061",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC061",
+        "@type": "wx:Zone",
+        "id": "COC061",
+        "type": "county",
+        "name": "Kiowa",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC063",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC063",
+        "@type": "wx:Zone",
+        "id": "COC063",
+        "type": "county",
+        "name": "Kit Carson",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GLD"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GLD"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC065",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC065",
+        "@type": "wx:Zone",
+        "id": "COC065",
+        "type": "county",
+        "name": "Lake",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC067",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC067",
+        "@type": "wx:Zone",
+        "id": "COC067",
+        "type": "county",
+        "name": "La Plata",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC069",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC069",
+        "@type": "wx:Zone",
+        "id": "COC069",
+        "type": "county",
+        "name": "Larimer",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC071",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC071",
+        "@type": "wx:Zone",
+        "id": "COC071",
+        "type": "county",
+        "name": "Las Animas",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC073",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC073",
+        "@type": "wx:Zone",
+        "id": "COC073",
+        "type": "county",
+        "name": "Lincoln",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC075",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC075",
+        "@type": "wx:Zone",
+        "id": "COC075",
+        "type": "county",
+        "name": "Logan",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC077",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC077",
+        "@type": "wx:Zone",
+        "id": "COC077",
+        "type": "county",
+        "name": "Mesa",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC079",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC079",
+        "@type": "wx:Zone",
+        "id": "COC079",
+        "type": "county",
+        "name": "Mineral",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC081",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC081",
+        "@type": "wx:Zone",
+        "id": "COC081",
+        "type": "county",
+        "name": "Moffat",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC083",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC083",
+        "@type": "wx:Zone",
+        "id": "COC083",
+        "type": "county",
+        "name": "Montezuma",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC085",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC085",
+        "@type": "wx:Zone",
+        "id": "COC085",
+        "type": "county",
+        "name": "Montrose",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC087",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC087",
+        "@type": "wx:Zone",
+        "id": "COC087",
+        "type": "county",
+        "name": "Morgan",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC089",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC089",
+        "@type": "wx:Zone",
+        "id": "COC089",
+        "type": "county",
+        "name": "Otero",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC091",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC091",
+        "@type": "wx:Zone",
+        "id": "COC091",
+        "type": "county",
+        "name": "Ouray",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC093",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC093",
+        "@type": "wx:Zone",
+        "id": "COC093",
+        "type": "county",
+        "name": "Park",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC095",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC095",
+        "@type": "wx:Zone",
+        "id": "COC095",
+        "type": "county",
+        "name": "Phillips",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC097",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC097",
+        "@type": "wx:Zone",
+        "id": "COC097",
+        "type": "county",
+        "name": "Pitkin",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC099",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC099",
+        "@type": "wx:Zone",
+        "id": "COC099",
+        "type": "county",
+        "name": "Prowers",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC101",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC101",
+        "@type": "wx:Zone",
+        "id": "COC101",
+        "type": "county",
+        "name": "Pueblo",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC103",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC103",
+        "@type": "wx:Zone",
+        "id": "COC103",
+        "type": "county",
+        "name": "Rio Blanco",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC105",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC105",
+        "@type": "wx:Zone",
+        "id": "COC105",
+        "type": "county",
+        "name": "Rio Grande",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC107",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC107",
+        "@type": "wx:Zone",
+        "id": "COC107",
+        "type": "county",
+        "name": "Routt",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC109",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC109",
+        "@type": "wx:Zone",
+        "id": "COC109",
+        "type": "county",
+        "name": "Saguache",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC111",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC111",
+        "@type": "wx:Zone",
+        "id": "COC111",
+        "type": "county",
+        "name": "San Juan",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC113",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC113",
+        "@type": "wx:Zone",
+        "id": "COC113",
+        "type": "county",
+        "name": "San Miguel",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC115",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC115",
+        "@type": "wx:Zone",
+        "id": "COC115",
+        "type": "county",
+        "name": "Sedgwick",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC117",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC117",
+        "@type": "wx:Zone",
+        "id": "COC117",
+        "type": "county",
+        "name": "Summit",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC119",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC119",
+        "@type": "wx:Zone",
+        "id": "COC119",
+        "type": "county",
+        "name": "Teller",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC121",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC121",
+        "@type": "wx:Zone",
+        "id": "COC121",
+        "type": "county",
+        "name": "Washington",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC123",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC123",
+        "@type": "wx:Zone",
+        "id": "COC123",
+        "type": "county",
+        "name": "Weld",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/county/COC125",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/county/COC125",
+        "@type": "wx:Zone",
+        "id": "COC125",
+        "type": "county",
+        "name": "Yuma",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GLD"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GLD"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ001",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ001",
+        "@type": "wx:Zone",
+        "id": "COZ001",
+        "type": "public",
+        "name": "Lower Yampa River Basin",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/DNOC2",
+          "https://api.weather.gov/stations/DRAC2",
+          "https://api.weather.gov/stations/LODC2",
+          "https://api.weather.gov/stations/SURC2",
+          "https://api.weather.gov/stations/TS654"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ002",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ002",
+        "@type": "wx:Zone",
+        "id": "COZ002",
+        "type": "public",
+        "name": "Central Yampa River Basin",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/GDRC2",
+          "https://api.weather.gov/stations/HCKC2",
+          "https://api.weather.gov/stations/KCAG",
+          "https://api.weather.gov/stations/KEEO",
+          "https://api.weather.gov/stations/KHDN",
+          "https://api.weather.gov/stations/KSBS"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ003",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ003",
+        "@type": "wx:Zone",
+        "id": "COZ003",
+        "type": "public",
+        "name": "Roan and Tavaputs Plateaus",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/CO098",
+          "https://api.weather.gov/stations/KEEO",
+          "https://api.weather.gov/stations/KGJT"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ004",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ004",
+        "@type": "wx:Zone",
+        "id": "COZ004",
+        "type": "public",
+        "name": "Elkhead and Park Mountains",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/C7214",
+          "https://api.weather.gov/stations/CA42R",
+          "https://api.weather.gov/stations/DRLC2",
+          "https://api.weather.gov/stations/KHDN",
+          "https://api.weather.gov/stations/KSBS",
+          "https://api.weather.gov/stations/STORM"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ005",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ005",
+        "@type": "wx:Zone",
+        "id": "COZ005",
+        "type": "public",
+        "name": "Upper Yampa River Basin",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/CA42R",
+          "https://api.weather.gov/stations/KSBS",
+          "https://api.weather.gov/stations/STORM"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ006",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ006",
+        "@type": "wx:Zone",
+        "id": "COZ006",
+        "type": "public",
+        "name": "Grand Valley",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/BCRU1",
+          "https://api.weather.gov/stations/CAGMS",
+          "https://api.weather.gov/stations/CO097",
+          "https://api.weather.gov/stations/KAJZ",
+          "https://api.weather.gov/stations/KGJT"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ007",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ007",
+        "@type": "wx:Zone",
+        "id": "COZ007",
+        "type": "public",
+        "name": "Debeque to Silt Corridor",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/CAGMS",
+          "https://api.weather.gov/stations/CO084",
+          "https://api.weather.gov/stations/CO118",
+          "https://api.weather.gov/stations/KEGE",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KRIL"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ008",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ008",
+        "@type": "wx:Zone",
+        "id": "COZ008",
+        "type": "public",
+        "name": "Central Colorado River Basin",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/CO089",
+          "https://api.weather.gov/stations/CO090",
+          "https://api.weather.gov/stations/CO099",
+          "https://api.weather.gov/stations/CO101",
+          "https://api.weather.gov/stations/E0538",
+          "https://api.weather.gov/stations/KASE",
+          "https://api.weather.gov/stations/KEGE",
+          "https://api.weather.gov/stations/KRIL"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ009",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ009",
+        "@type": "wx:Zone",
+        "id": "COZ009",
+        "type": "public",
+        "name": "Grand and Battlement Mesas",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/CAGMS",
+          "https://api.weather.gov/stations/KAJZ",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/MESC2",
+          "https://api.weather.gov/stations/PRVC2"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ010",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ010",
+        "@type": "wx:Zone",
+        "id": "COZ010",
+        "type": "public",
+        "name": "Gore and Elk Mountains/Central Mountain Valleys",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/CAVLP",
+          "https://api.weather.gov/stations/CO100",
+          "https://api.weather.gov/stations/K5SM",
+          "https://api.weather.gov/stations/KASE",
+          "https://api.weather.gov/stations/KEGE",
+          "https://api.weather.gov/stations/MCPC2"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ011",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ011",
+        "@type": "wx:Zone",
+        "id": "COZ011",
+        "type": "public",
+        "name": "Central Gunnison and Uncompahgre River Basin",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/CAGMS",
+          "https://api.weather.gov/stations/JAYC2",
+          "https://api.weather.gov/stations/KAJZ",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KMTJ"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ012",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ012",
+        "@type": "wx:Zone",
+        "id": "COZ012",
+        "type": "public",
+        "name": "West Elk and Sawatch Mountains",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/CO127",
+          "https://api.weather.gov/stations/KGUC",
+          "https://api.weather.gov/stations/KMYP",
+          "https://api.weather.gov/stations/TAPC2"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ013",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ013",
+        "@type": "wx:Zone",
+        "id": "COZ013",
+        "type": "public",
+        "name": "Flat Tops",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCAG",
+          "https://api.weather.gov/stations/KEEO",
+          "https://api.weather.gov/stations/KRIL",
+          "https://api.weather.gov/stations/KSBS",
+          "https://api.weather.gov/stations/MITC2",
+          "https://api.weather.gov/stations/TLSC2"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ014",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ014",
+        "@type": "wx:Zone",
+        "id": "COZ014",
+        "type": "public",
+        "name": "Upper Gunnison River Valley",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KGUC",
+          "https://api.weather.gov/stations/KMYP",
+          "https://api.weather.gov/stations/LPRC2",
+          "https://api.weather.gov/stations/TAPC2"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ017",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ017",
+        "@type": "wx:Zone",
+        "id": "COZ017",
+        "type": "public",
+        "name": "Uncompahgre Plateau/Dallas Divide",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/CMEC2",
+          "https://api.weather.gov/stations/CPSC2",
+          "https://api.weather.gov/stations/D6226",
+          "https://api.weather.gov/stations/JCRC2",
+          "https://api.weather.gov/stations/KAJZ",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KMTJ",
+          "https://api.weather.gov/stations/LDRC2"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ018",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ018",
+        "@type": "wx:Zone",
+        "id": "COZ018",
+        "type": "public",
+        "name": "Northwestern San Juan Mountains",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/CAMLP",
+          "https://api.weather.gov/stations/D6226",
+          "https://api.weather.gov/stations/HMEC2",
+          "https://api.weather.gov/stations/KTEX"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ019",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ019",
+        "@type": "wx:Zone",
+        "id": "COZ019",
+        "type": "public",
+        "name": "Southwest San Juan Mountains",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/BBRC2",
+          "https://api.weather.gov/stations/CAMLP",
+          "https://api.weather.gov/stations/KCPW",
+          "https://api.weather.gov/stations/KDRO",
+          "https://api.weather.gov/stations/KMTJ",
+          "https://api.weather.gov/stations/KPSO",
+          "https://api.weather.gov/stations/RMPC2",
+          "https://api.weather.gov/stations/SAWC2"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ020",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ020",
+        "@type": "wx:Zone",
+        "id": "COZ020",
+        "type": "public",
+        "name": "Paradox Valley/Lower Dolores River",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/CPTC2",
+          "https://api.weather.gov/stations/CSU89",
+          "https://api.weather.gov/stations/KAIB",
+          "https://api.weather.gov/stations/KMTJ",
+          "https://api.weather.gov/stations/KTEX"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ021",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ021",
+        "@type": "wx:Zone",
+        "id": "COZ021",
+        "type": "public",
+        "name": "Four Corners/Upper Dolores River",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/CAMLP",
+          "https://api.weather.gov/stations/KCEZ",
+          "https://api.weather.gov/stations/KCPW",
+          "https://api.weather.gov/stations/KDRO",
+          "https://api.weather.gov/stations/KPSO",
+          "https://api.weather.gov/stations/KTEX",
+          "https://api.weather.gov/stations/MOKC2"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ022",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ022",
+        "@type": "wx:Zone",
+        "id": "COZ022",
+        "type": "public",
+        "name": "Animas River Basin",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/CAMLP",
+          "https://api.weather.gov/stations/CO058",
+          "https://api.weather.gov/stations/KCPW",
+          "https://api.weather.gov/stations/KDRO",
+          "https://api.weather.gov/stations/KPSO"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ023",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ023",
+        "@type": "wx:Zone",
+        "id": "COZ023",
+        "type": "public",
+        "name": "San Juan River Basin",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/CAMLP",
+          "https://api.weather.gov/stations/CO054",
+          "https://api.weather.gov/stations/DYKC2",
+          "https://api.weather.gov/stations/KCEZ",
+          "https://api.weather.gov/stations/KCPW",
+          "https://api.weather.gov/stations/KDRO",
+          "https://api.weather.gov/stations/KPSO"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ030",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ030",
+        "@type": "wx:Zone",
+        "id": "COZ030",
+        "type": "public",
+        "name": "Jackson County Below 9000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/K0CO",
+          "https://api.weather.gov/stations/K20V",
+          "https://api.weather.gov/stations/K33V",
+          "https://api.weather.gov/stations/KC07",
+          "https://api.weather.gov/stations/KCAG",
+          "https://api.weather.gov/stations/KCCU",
+          "https://api.weather.gov/stations/KFNL",
+          "https://api.weather.gov/stations/KGNB",
+          "https://api.weather.gov/stations/KHDN",
+          "https://api.weather.gov/stations/KSAA",
+          "https://api.weather.gov/stations/KSBS"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ031",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ031",
+        "@type": "wx:Zone",
+        "id": "COZ031",
+        "type": "public",
+        "name": "West Jackson and West Grand Counties Above 9000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/K0CO",
+          "https://api.weather.gov/stations/K20V",
+          "https://api.weather.gov/stations/K33V",
+          "https://api.weather.gov/stations/KC07",
+          "https://api.weather.gov/stations/KCAG",
+          "https://api.weather.gov/stations/KCCU",
+          "https://api.weather.gov/stations/KFNL",
+          "https://api.weather.gov/stations/KGNB",
+          "https://api.weather.gov/stations/KHDN",
+          "https://api.weather.gov/stations/KLXV",
+          "https://api.weather.gov/stations/KSBS"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ032",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ032",
+        "@type": "wx:Zone",
+        "id": "COZ032",
+        "type": "public",
+        "name": "Grand and Summit Counties Below 9000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/K0CO",
+          "https://api.weather.gov/stations/K20V",
+          "https://api.weather.gov/stations/K33V",
+          "https://api.weather.gov/stations/KASE",
+          "https://api.weather.gov/stations/KBJC",
+          "https://api.weather.gov/stations/KC07",
+          "https://api.weather.gov/stations/KCAG",
+          "https://api.weather.gov/stations/KCCU",
+          "https://api.weather.gov/stations/KEGE",
+          "https://api.weather.gov/stations/KGNB",
+          "https://api.weather.gov/stations/KHDN",
+          "https://api.weather.gov/stations/KSBS"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ033",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ033",
+        "@type": "wx:Zone",
+        "id": "COZ033",
+        "type": "public",
+        "name": "South and East Jackson/Larimer/North and Northeast Grand/Northwest Boulder Counties Above 9000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/K20V",
+          "https://api.weather.gov/stations/K33V",
+          "https://api.weather.gov/stations/KBJC",
+          "https://api.weather.gov/stations/KCAG",
+          "https://api.weather.gov/stations/KCYS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KEEO",
+          "https://api.weather.gov/stations/KFNL",
+          "https://api.weather.gov/stations/KGNB",
+          "https://api.weather.gov/stations/KGXY",
+          "https://api.weather.gov/stations/KHDN"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ034",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ034",
+        "@type": "wx:Zone",
+        "id": "COZ034",
+        "type": "public",
+        "name": "South and Southeast Grand/West Central and Southwest Boulder/Gilpin/Clear Creek/Summit/North and West Park Counties Above 9000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/K0CO",
+          "https://api.weather.gov/stations/K20V",
+          "https://api.weather.gov/stations/KASE",
+          "https://api.weather.gov/stations/KBJC",
+          "https://api.weather.gov/stations/KCCU",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KGNB",
+          "https://api.weather.gov/stations/KMTJ",
+          "https://api.weather.gov/stations/KMYP",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KSBS"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ035",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ035",
+        "@type": "wx:Zone",
+        "id": "COZ035",
+        "type": "public",
+        "name": "Larimer and Boulder Counties Between 6000 and 9000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAPA",
+          "https://api.weather.gov/stations/KBDU",
+          "https://api.weather.gov/stations/KBKF",
+          "https://api.weather.gov/stations/KCAG",
+          "https://api.weather.gov/stations/KCFO",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KCYS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFNL",
+          "https://api.weather.gov/stations/KGXY",
+          "https://api.weather.gov/stations/KLAR",
+          "https://api.weather.gov/stations/KLMO",
+          "https://api.weather.gov/stations/KLXV"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ036",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ036",
+        "@type": "wx:Zone",
+        "id": "COZ036",
+        "type": "public",
+        "name": "Jefferson and West Douglas Counties Above  6000 Feet/Gilpin/Clear Creek/Northeast Park Counties Below 9000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAFF",
+          "https://api.weather.gov/stations/KASE",
+          "https://api.weather.gov/stations/KBJC",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KLXV",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ037",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ037",
+        "@type": "wx:Zone",
+        "id": "COZ037",
+        "type": "public",
+        "name": "Central and Southeast Park County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KBJC",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KGUC",
+          "https://api.weather.gov/stations/KMYP",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ038",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ038",
+        "@type": "wx:Zone",
+        "id": "COZ038",
+        "type": "public",
+        "name": "Larimer County Below 6000 Feet/Northwest Weld County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAKO",
+          "https://api.weather.gov/stations/KAPA",
+          "https://api.weather.gov/stations/KBKF",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KCYS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KGXY",
+          "https://api.weather.gov/stations/KLIC",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ039",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ039",
+        "@type": "wx:Zone",
+        "id": "COZ039",
+        "type": "public",
+        "name": "Boulder And Jefferson Counties Below 6000 Feet/West Broomfield County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KBKF",
+          "https://api.weather.gov/stations/KCFO",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFNL",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KGXY",
+          "https://api.weather.gov/stations/KLXV",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ040",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ040",
+        "@type": "wx:Zone",
+        "id": "COZ040",
+        "type": "public",
+        "name": "North Douglas County Below 6000 Feet/Denver/West Adams and Arapahoe Counties/East Broomfield County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAPA",
+          "https://api.weather.gov/stations/KBJC",
+          "https://api.weather.gov/stations/KBKF",
+          "https://api.weather.gov/stations/KCFO",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFNL",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KGXY",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ041",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ041",
+        "@type": "wx:Zone",
+        "id": "COZ041",
+        "type": "public",
+        "name": "Elbert/Central and East Douglas Counties Above 6000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAFF",
+          "https://api.weather.gov/stations/KAPA",
+          "https://api.weather.gov/stations/KBJC",
+          "https://api.weather.gov/stations/KCFO",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFCS",
+          "https://api.weather.gov/stations/KFNL",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KLIC",
+          "https://api.weather.gov/stations/KMNH",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ042",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ042",
+        "@type": "wx:Zone",
+        "id": "COZ042",
+        "type": "public",
+        "name": "Northeast Weld County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KBKF",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KCYS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFNL",
+          "https://api.weather.gov/stations/KGXY",
+          "https://api.weather.gov/stations/KITR",
+          "https://api.weather.gov/stations/KLIC",
+          "https://api.weather.gov/stations/KSNY"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ043",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ043",
+        "@type": "wx:Zone",
+        "id": "COZ043",
+        "type": "public",
+        "name": "Central and South Weld County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAPA",
+          "https://api.weather.gov/stations/KBKF",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KCYS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFNL",
+          "https://api.weather.gov/stations/KLIC",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KSKO"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ044",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ044",
+        "@type": "wx:Zone",
+        "id": "COZ044",
+        "type": "public",
+        "name": "Morgan County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KBKF",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KCYS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGXY",
+          "https://api.weather.gov/stations/KITR",
+          "https://api.weather.gov/stations/KLIC",
+          "https://api.weather.gov/stations/KSNY"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ045",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ045",
+        "@type": "wx:Zone",
+        "id": "COZ045",
+        "type": "public",
+        "name": "Central and East Adams and Arapahoe Counties",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAKO",
+          "https://api.weather.gov/stations/KCFO",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFNL",
+          "https://api.weather.gov/stations/KGXY",
+          "https://api.weather.gov/stations/KITR",
+          "https://api.weather.gov/stations/KLAA",
+          "https://api.weather.gov/stations/KLHX",
+          "https://api.weather.gov/stations/KLIC",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ046",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ046",
+        "@type": "wx:Zone",
+        "id": "COZ046",
+        "type": "public",
+        "name": "North and Northeast Elbert County Below 6000 Feet/North Lincoln County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAKO",
+          "https://api.weather.gov/stations/KBKF",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFNL",
+          "https://api.weather.gov/stations/KGXY",
+          "https://api.weather.gov/stations/KLAA",
+          "https://api.weather.gov/stations/KLHX",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ047",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ047",
+        "@type": "wx:Zone",
+        "id": "COZ047",
+        "type": "public",
+        "name": "Southeast Elbert County Below 6000 Feet/South Lincoln County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAKO",
+          "https://api.weather.gov/stations/KBKF",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KITR",
+          "https://api.weather.gov/stations/KLAA",
+          "https://api.weather.gov/stations/KLHX",
+          "https://api.weather.gov/stations/KLIC",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ048",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ048",
+        "@type": "wx:Zone",
+        "id": "COZ048",
+        "type": "public",
+        "name": "Logan County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KBKF",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KCYS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFNL",
+          "https://api.weather.gov/stations/KGXY",
+          "https://api.weather.gov/stations/KITR",
+          "https://api.weather.gov/stations/KLIC",
+          "https://api.weather.gov/stations/KSNY"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ049",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ049",
+        "@type": "wx:Zone",
+        "id": "COZ049",
+        "type": "public",
+        "name": "Washington County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KBKF",
+          "https://api.weather.gov/stations/KCFO",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KCYS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFNL",
+          "https://api.weather.gov/stations/KGXY",
+          "https://api.weather.gov/stations/KLIC",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KSNY"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ050",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ050",
+        "@type": "wx:Zone",
+        "id": "COZ050",
+        "type": "public",
+        "name": "Sedgwick County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KBKF",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KCYS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFNL",
+          "https://api.weather.gov/stations/KGXY",
+          "https://api.weather.gov/stations/KLIC",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KSNY"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ051",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ051",
+        "@type": "wx:Zone",
+        "id": "COZ051",
+        "type": "public",
+        "name": "Phillips County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAKO",
+          "https://api.weather.gov/stations/KBKF",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFNL",
+          "https://api.weather.gov/stations/KGXY",
+          "https://api.weather.gov/stations/KLAA",
+          "https://api.weather.gov/stations/KLIC",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ058",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ058",
+        "@type": "wx:Zone",
+        "id": "COZ058",
+        "type": "public",
+        "name": "Western Mosquito Range/East Lake County Above 11000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAEJ",
+          "https://api.weather.gov/stations/KASE",
+          "https://api.weather.gov/stations/KCCU",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KEGE",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KMYP",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ059",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ059",
+        "@type": "wx:Zone",
+        "id": "COZ059",
+        "type": "public",
+        "name": "Leadville Vicinity/Lake County Below 11000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAEJ",
+          "https://api.weather.gov/stations/KASE",
+          "https://api.weather.gov/stations/KCCU",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KEGE",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KGUC",
+          "https://api.weather.gov/stations/KMYP",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ060",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ060",
+        "@type": "wx:Zone",
+        "id": "COZ060",
+        "type": "public",
+        "name": "Eastern Sawatch Mountains above 11000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KASE",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KEAJ",
+          "https://api.weather.gov/stations/KEGE",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KGUC",
+          "https://api.weather.gov/stations/KLXV",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ061",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ061",
+        "@type": "wx:Zone",
+        "id": "COZ061",
+        "type": "public",
+        "name": "Western Chaffee County Between 9000 and 11000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAEJ",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KMYP",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ062",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ062",
+        "@type": "wx:Zone",
+        "id": "COZ062",
+        "type": "public",
+        "name": "Central Chaffee County Below 9000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAEJ",
+          "https://api.weather.gov/stations/KANK",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KMYP",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ063",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ063",
+        "@type": "wx:Zone",
+        "id": "COZ063",
+        "type": "public",
+        "name": "Western Mosquito Range/East Chaffee County above 9000Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAEJ",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KMYP",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ064",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ064",
+        "@type": "wx:Zone",
+        "id": "COZ064",
+        "type": "public",
+        "name": "Saguache County West of Continental Divide Below 10000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KGUC",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ065",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ065",
+        "@type": "wx:Zone",
+        "id": "COZ065",
+        "type": "public",
+        "name": "Saguache County East of Continental Divide below 10000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KCPW",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KMYP",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ066",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ066",
+        "@type": "wx:Zone",
+        "id": "COZ066",
+        "type": "public",
+        "name": "La Garita Mountains Above 10000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KALS",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KGUC",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ067",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ067",
+        "@type": "wx:Zone",
+        "id": "COZ067",
+        "type": "public",
+        "name": "Upper Rio Grande Valley/Eastern San Juan Mountains Below 10000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KCPW",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KTEX"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ068",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ068",
+        "@type": "wx:Zone",
+        "id": "COZ068",
+        "type": "public",
+        "name": "Eastern San Juan Mountains Above 10000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KALS",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KDRO",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KTEX"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ069",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ069",
+        "@type": "wx:Zone",
+        "id": "COZ069",
+        "type": "public",
+        "name": "Del Norte Vicinity/Northern San Luis Valley Below 8500 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KCPW",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KMYP",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KVTP"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ070",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ070",
+        "@type": "wx:Zone",
+        "id": "COZ070",
+        "type": "public",
+        "name": "Alamosa  Vicinity/Central San Luis Valley Below 8500 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KCPW",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KMYP",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KVTP"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ071",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ071",
+        "@type": "wx:Zone",
+        "id": "COZ071",
+        "type": "public",
+        "name": "Southern San Luis Valley",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAFF",
+          "https://api.weather.gov/stations/KAPA",
+          "https://api.weather.gov/stations/KBJC",
+          "https://api.weather.gov/stations/KBKF",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFCS",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KLIC",
+          "https://api.weather.gov/stations/KMNH",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ072",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ072",
+        "@type": "wx:Zone",
+        "id": "COZ072",
+        "type": "public",
+        "name": "Northern Sangre de Cristo Mountains Between 8500 And 11000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KALS",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ073",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ073",
+        "@type": "wx:Zone",
+        "id": "COZ073",
+        "type": "public",
+        "name": "Northern Sangre de Cristo Mountains above 11000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KALS",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KTAD"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ074",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ074",
+        "@type": "wx:Zone",
+        "id": "COZ074",
+        "type": "public",
+        "name": "Southern Sangre De Cristo Mountains Between 7500 and 11000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KALS",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KRTN",
+          "https://api.weather.gov/stations/KTAD"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ075",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ075",
+        "@type": "wx:Zone",
+        "id": "COZ075",
+        "type": "public",
+        "name": "Southern Sangre De Cristo Mountains Above 11000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KALS",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KRTN",
+          "https://api.weather.gov/stations/KTAD"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ076",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ076",
+        "@type": "wx:Zone",
+        "id": "COZ076",
+        "type": "public",
+        "name": "Northwestern Fremont County  Above 8500Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ077",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ077",
+        "@type": "wx:Zone",
+        "id": "COZ077",
+        "type": "public",
+        "name": "Western/Central Fremont County Below 8500 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ078",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ078",
+        "@type": "wx:Zone",
+        "id": "COZ078",
+        "type": "public",
+        "name": "Wet Mountain Valley Below 8500 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ079",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ079",
+        "@type": "wx:Zone",
+        "id": "COZ079",
+        "type": "public",
+        "name": "Wet Mountains between 6300 and 10000Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KTAD"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ080",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ080",
+        "@type": "wx:Zone",
+        "id": "COZ080",
+        "type": "public",
+        "name": "Wet Mountains above 10000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KTAD"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ081",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ081",
+        "@type": "wx:Zone",
+        "id": "COZ081",
+        "type": "public",
+        "name": "Teller County/Rampart Range above 7500fT/Pike's Peak Between 7500 And 11000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAFF",
+          "https://api.weather.gov/stations/KAPA",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFCS",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KMNH",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ082",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ082",
+        "@type": "wx:Zone",
+        "id": "COZ082",
+        "type": "public",
+        "name": "Pikes Peak above 11000 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAFF",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFCS",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ083",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ083",
+        "@type": "wx:Zone",
+        "id": "COZ083",
+        "type": "public",
+        "name": "Canon City Vicinity/Eastern Fremont County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFCS",
+          "https://api.weather.gov/stations/KGJT"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ084",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ084",
+        "@type": "wx:Zone",
+        "id": "COZ084",
+        "type": "public",
+        "name": "Northern El Paso County/Monument Ridge/Rampart Range Below 7500 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAPA",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFCS",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KLIC",
+          "https://api.weather.gov/stations/KMNH",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ085",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ085",
+        "@type": "wx:Zone",
+        "id": "COZ085",
+        "type": "public",
+        "name": "Colorado Springs Vicinity/Southern El Paso County/Rampart Range Below 7400 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KAFF",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFCS",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KMNH",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ086",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ086",
+        "@type": "wx:Zone",
+        "id": "COZ086",
+        "type": "public",
+        "name": "Pueblo Vicinity/Pueblo County Below 6300 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KFCS",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KLHX"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ087",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ087",
+        "@type": "wx:Zone",
+        "id": "COZ087",
+        "type": "public",
+        "name": "Walsenburg Vicinity/Upper Huerfano River Basin Below 7500 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KVTP"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ088",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ088",
+        "@type": "wx:Zone",
+        "id": "COZ088",
+        "type": "public",
+        "name": "Trinidad Vicinity/Western Las Animas County Below 7500 Ft",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KRTN",
+          "https://api.weather.gov/stations/KVTP"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ089",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ089",
+        "@type": "wx:Zone",
+        "id": "COZ089",
+        "type": "public",
+        "name": "Crowley County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ090",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ090",
+        "@type": "wx:Zone",
+        "id": "COZ090",
+        "type": "public",
+        "name": "Yuma County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GLD"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GLD"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/K2V5",
+          "https://api.weather.gov/stations/K2V6",
+          "https://api.weather.gov/stations/KAK0",
+          "https://api.weather.gov/stations/KHEQ",
+          "https://api.weather.gov/stations/KSYF"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ091",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ091",
+        "@type": "wx:Zone",
+        "id": "COZ091",
+        "type": "public",
+        "name": "Kit Carson County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GLD"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GLD"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/K2V5",
+          "https://api.weather.gov/stations/K2V6",
+          "https://api.weather.gov/stations/KGLD",
+          "https://api.weather.gov/stations/KLIC",
+          "https://api.weather.gov/stations/KSYF"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ092",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ092",
+        "@type": "wx:Zone",
+        "id": "COZ092",
+        "type": "public",
+        "name": "Cheyenne County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GLD"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GLD"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/K5K2",
+          "https://api.weather.gov/stations/KLAA",
+          "https://api.weather.gov/stations/KLHX"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ093",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ093",
+        "@type": "wx:Zone",
+        "id": "COZ093",
+        "type": "public",
+        "name": "La Junta Vicinity/Otero County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KLAA",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ094",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ094",
+        "@type": "wx:Zone",
+        "id": "COZ094",
+        "type": "public",
+        "name": "Eastern Las Animas County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCAO",
+          "https://api.weather.gov/stations/KLHX",
+          "https://api.weather.gov/stations/KRTN",
+          "https://api.weather.gov/stations/KSPD"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ095",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ095",
+        "@type": "wx:Zone",
+        "id": "COZ095",
+        "type": "public",
+        "name": "Western Kiowa County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KLAA",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ096",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ096",
+        "@type": "wx:Zone",
+        "id": "COZ096",
+        "type": "public",
+        "name": "Eastern Kiowa County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KITR",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ097",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ097",
+        "@type": "wx:Zone",
+        "id": "COZ097",
+        "type": "public",
+        "name": "Las Animas Vicinity/Bent County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KLHX",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KSPD"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ098",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ098",
+        "@type": "wx:Zone",
+        "id": "COZ098",
+        "type": "public",
+        "name": "Lamar Vicinity/Prowers County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KLHX",
+          "https://api.weather.gov/stations/KPUB",
+          "https://api.weather.gov/stations/KSPD"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/forecast/COZ099",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/forecast/COZ099",
+        "@type": "wx:Zone",
+        "id": "COZ099",
+        "type": "public",
+        "name": "Springfield Vicinity/Baca County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [
+          "https://api.weather.gov/stations/KCAO",
+          "https://api.weather.gov/stations/KCOS",
+          "https://api.weather.gov/stations/KDEN",
+          "https://api.weather.gov/stations/KEHA",
+          "https://api.weather.gov/stations/KGJT",
+          "https://api.weather.gov/stations/KGUY",
+          "https://api.weather.gov/stations/KLAA",
+          "https://api.weather.gov/stations/KPUB"
+        ],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ200",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ200",
+        "@type": "wx:Zone",
+        "id": "COZ200",
+        "type": "fire",
+        "name": "Little Snake",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ201",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ201",
+        "@type": "wx:Zone",
+        "id": "COZ201",
+        "type": "fire",
+        "name": "Routt",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ202",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ202",
+        "@type": "wx:Zone",
+        "id": "COZ202",
+        "type": "fire",
+        "name": "White River",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ203",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ203",
+        "@type": "wx:Zone",
+        "id": "COZ203",
+        "type": "fire",
+        "name": "Lower Colorado River",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ205",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ205",
+        "@type": "wx:Zone",
+        "id": "COZ205",
+        "type": "fire",
+        "name": "Colorado River Headwaters",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ207",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ207",
+        "@type": "wx:Zone",
+        "id": "COZ207",
+        "type": "fire",
+        "name": "Southwest Colorado Lower Forecast Area",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ211",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ211",
+        "@type": "wx:Zone",
+        "id": "COZ211",
+        "type": "fire",
+        "name": "Jackson County Below 9000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ212",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ212",
+        "@type": "wx:Zone",
+        "id": "COZ212",
+        "type": "fire",
+        "name": "South and Southeast Grand/West Central and Southwest Boulder/Gilpin/Clear Creek/Summit/North and West Park Counties Above 9000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ213",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ213",
+        "@type": "wx:Zone",
+        "id": "COZ213",
+        "type": "fire",
+        "name": "Grand and Summit Counties Below 9000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ214",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ214",
+        "@type": "wx:Zone",
+        "id": "COZ214",
+        "type": "fire",
+        "name": "Central and Southeast Park County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ215",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ215",
+        "@type": "wx:Zone",
+        "id": "COZ215",
+        "type": "fire",
+        "name": "Larimer and Boulder Counties Between 6000 and 9000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ216",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ216",
+        "@type": "wx:Zone",
+        "id": "COZ216",
+        "type": "fire",
+        "name": "Jefferson and West Douglas Counties Above  6000 Feet/Gilpin/Clear Creek/Northeast Park Counties Below 9000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ217",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ217",
+        "@type": "wx:Zone",
+        "id": "COZ217",
+        "type": "fire",
+        "name": "West Jackson and West Grand Counties Above 9000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ218",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ218",
+        "@type": "wx:Zone",
+        "id": "COZ218",
+        "type": "fire",
+        "name": "South and East Jackson/Larimer/North and Northeast Grand/Northwest Boulder Counties Above 9000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ220",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ220",
+        "@type": "wx:Zone",
+        "id": "COZ220",
+        "type": "fire",
+        "name": "Upper Arkansas River Valley Including Lake County and Chaffee County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ221",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ221",
+        "@type": "wx:Zone",
+        "id": "COZ221",
+        "type": "fire",
+        "name": "Teller County/Rampart Range Including Pikes Peak and Florissant Fossil Beds National Monument",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ222",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ222",
+        "@type": "wx:Zone",
+        "id": "COZ222",
+        "type": "fire",
+        "name": "Fremont County Including Canon City/Howard/Texas Creek",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ223",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ223",
+        "@type": "wx:Zone",
+        "id": "COZ223",
+        "type": "fire",
+        "name": "Eastern San Juan Mountains and La Garita Mountains Including Wolf Creek Pass and Creede",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ224",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ224",
+        "@type": "wx:Zone",
+        "id": "COZ224",
+        "type": "fire",
+        "name": "San Luis Valley Including Alamosa/Del Norte/Fort Garland/Saguache",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ225",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ225",
+        "@type": "wx:Zone",
+        "id": "COZ225",
+        "type": "fire",
+        "name": "Southern Front Range Including Sangre De Cristo Mountains/Wet Mountains/La Veta Pass",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ226",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ226",
+        "@type": "wx:Zone",
+        "id": "COZ226",
+        "type": "fire",
+        "name": "Northern El Paso County Including Monument and Black Forest",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ227",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ227",
+        "@type": "wx:Zone",
+        "id": "COZ227",
+        "type": "fire",
+        "name": "Southern El Paso County Including Fort Carson and Colorado Springs",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ228",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ228",
+        "@type": "wx:Zone",
+        "id": "COZ228",
+        "type": "fire",
+        "name": "Pueblo County Including Pueblo",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ229",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ229",
+        "@type": "wx:Zone",
+        "id": "COZ229",
+        "type": "fire",
+        "name": "Huerfano County Including Walsenburg",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ230",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ230",
+        "@type": "wx:Zone",
+        "id": "COZ230",
+        "type": "fire",
+        "name": "Western Las Animas County Including Trinidad and Thatcher",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ231",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ231",
+        "@type": "wx:Zone",
+        "id": "COZ231",
+        "type": "fire",
+        "name": "Crowley County Including Ordway",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ232",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ232",
+        "@type": "wx:Zone",
+        "id": "COZ232",
+        "type": "fire",
+        "name": "Otero County Including La Junta and Western Comanche Grasslands",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ233",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ233",
+        "@type": "wx:Zone",
+        "id": "COZ233",
+        "type": "fire",
+        "name": "Eastern Las Animas County Including Pinon Canyon",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ234",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ234",
+        "@type": "wx:Zone",
+        "id": "COZ234",
+        "type": "fire",
+        "name": "Kiowa County Including Eads",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ235",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ235",
+        "@type": "wx:Zone",
+        "id": "COZ235",
+        "type": "fire",
+        "name": "Bent County Including Las Animas",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ236",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ236",
+        "@type": "wx:Zone",
+        "id": "COZ236",
+        "type": "fire",
+        "name": "Prowers County Including Lamar",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ237",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ237",
+        "@type": "wx:Zone",
+        "id": "COZ237",
+        "type": "fire",
+        "name": "Baca County Including Springfield and Eastern Comanche Grasslands",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "PUB"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/PUB"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ238",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ238",
+        "@type": "wx:Zone",
+        "id": "COZ238",
+        "type": "fire",
+        "name": "Larimer County Below 6000 Feet/Northwest Weld County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ239",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ239",
+        "@type": "wx:Zone",
+        "id": "COZ239",
+        "type": "fire",
+        "name": "Boulder And Jefferson Counties Below 6000 Feet/West Broomfield County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ240",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ240",
+        "@type": "wx:Zone",
+        "id": "COZ240",
+        "type": "fire",
+        "name": "North Douglas County Below 6000 Feet/Denver/West Adams and Arapahoe Counties/East Broomfield County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ241",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ241",
+        "@type": "wx:Zone",
+        "id": "COZ241",
+        "type": "fire",
+        "name": "Elbert/Central and East Douglas Counties Above 6000 Feet",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ242",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ242",
+        "@type": "wx:Zone",
+        "id": "COZ242",
+        "type": "fire",
+        "name": "Northeast Weld County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ243",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ243",
+        "@type": "wx:Zone",
+        "id": "COZ243",
+        "type": "fire",
+        "name": "Central and South Weld County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ244",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ244",
+        "@type": "wx:Zone",
+        "id": "COZ244",
+        "type": "fire",
+        "name": "Morgan County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ245",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ245",
+        "@type": "wx:Zone",
+        "id": "COZ245",
+        "type": "fire",
+        "name": "Central and East Adams and Arapahoe Counties",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ246",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ246",
+        "@type": "wx:Zone",
+        "id": "COZ246",
+        "type": "fire",
+        "name": "North and Northeast Elbert County Below 6000 Feet/North Lincoln County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ247",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ247",
+        "@type": "wx:Zone",
+        "id": "COZ247",
+        "type": "fire",
+        "name": "Southeast Elbert County Below 6000 Feet/South Lincoln County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ248",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ248",
+        "@type": "wx:Zone",
+        "id": "COZ248",
+        "type": "fire",
+        "name": "Logan County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ249",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ249",
+        "@type": "wx:Zone",
+        "id": "COZ249",
+        "type": "fire",
+        "name": "Washington County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ250",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ250",
+        "@type": "wx:Zone",
+        "id": "COZ250",
+        "type": "fire",
+        "name": "Sedgwick County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ251",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ251",
+        "@type": "wx:Zone",
+        "id": "COZ251",
+        "type": "fire",
+        "name": "Phillips County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "BOU"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/BOU"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ252",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ252",
+        "@type": "wx:Zone",
+        "id": "COZ252",
+        "type": "fire",
+        "name": "Yuma",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GLD"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GLD"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ253",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ253",
+        "@type": "wx:Zone",
+        "id": "COZ253",
+        "type": "fire",
+        "name": "Kit Carson County",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GLD"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GLD"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ254",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ254",
+        "@type": "wx:Zone",
+        "id": "COZ254",
+        "type": "fire",
+        "name": "Cheyenne",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GLD"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GLD"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ290",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ290",
+        "@type": "wx:Zone",
+        "id": "COZ290",
+        "type": "fire",
+        "name": "Paradox Valley",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ291",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ291",
+        "@type": "wx:Zone",
+        "id": "COZ291",
+        "type": "fire",
+        "name": "Northern San Juan",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ292",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ292",
+        "@type": "wx:Zone",
+        "id": "COZ292",
+        "type": "fire",
+        "name": "North Fork",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ293",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ293",
+        "@type": "wx:Zone",
+        "id": "COZ293",
+        "type": "fire",
+        "name": "Gunnison Basin",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ294",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ294",
+        "@type": "wx:Zone",
+        "id": "COZ294",
+        "type": "fire",
+        "name": "Southwest Colorado Upper West Forecast Area",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    },
+    {
+      "id": "https://api.weather.gov/zones/fire/COZ295",
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "@id": "https://api.weather.gov/zones/fire/COZ295",
+        "@type": "wx:Zone",
+        "id": "COZ295",
+        "type": "fire",
+        "name": "Southwest Colorado Upper East Forecast Area",
+        "effectiveDate": "2023-09-19T18:00:00+00:00",
+        "expirationDate": "2200-01-01T00:00:00+00:00",
+        "state": "CO",
+        "cwa": [
+          "GJT"
+        ],
+        "forecastOffices": [
+          "https://api.weather.gov/offices/GJT"
+        ],
+        "timeZone": [
+          "America/Denver"
+        ],
+        "observationStations": [],
+        "radarStation": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "r+jCuccLhOJapwduilLlZ9rSQK+iSxFeirKGPkY8QwM=",
+  "Source": "CanAmAPI.Server",
+  "BasePath": "_content/CanAmAPI.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ethan\\Development\\Visual Studio\\CanAmAPI\\canamapi.client\\canamapi.client.esproj",
+      "Version": 2,
+      "Source": "canamapi.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

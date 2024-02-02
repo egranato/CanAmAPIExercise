@@ -1,0 +1,1 @@
+C:\Users\ethan\Development\Visual Studio\CanAmAPI\canamapi.client\obj\Debug\canamapi.client.esproj.CoreCompileInputs.cache

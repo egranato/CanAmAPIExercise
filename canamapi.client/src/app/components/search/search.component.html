@@ -1,0 +1,55 @@
+<div class="row">
+  <div class="mb-3 col-6">
+    <label for="state" class="form-label">Enter State</label>
+    <input
+      [(ngModel)]="state"
+      placeholder="e.g. CO, AL etc"
+      type="search"
+      class="form-control"
+      id="state"
+      (keyup)="validateState()"
+    />
+  </div>
+  <div>
+    <button
+      type="submit"
+      class="btn btn-primary"
+      [disabled]="!stateValid"
+      (click)="getStationsAndZones()"
+    >
+      Submit
+    </button>
+  </div>
+</div>
+<div class="row">
+  <div class="col-6" *ngIf="stations.length > 0">
+    <h5>Weather Stations</h5>
+    <ul class="nav flex-column">
+      <li class="nav-item" *ngFor="let station of stations">
+        <a
+          class="nav-link"
+          routerLink="stationforecast"
+          [queryParams]="{
+            name: station.name,
+            latitude: station.latitude,
+            longitude: station.longitude
+          }"
+          >{{ station.name }}</a
+        >
+      </li>
+    </ul>
+  </div>
+  <div class="col-6" *ngIf="zones.length > 0">
+    <h5>Geographical Zones</h5>
+    <ul class="nav flex-column">
+      <li class="nav-item" *ngFor="let zone of zones">
+        <a
+          class="nav-link"
+          routerLink="zoneforecast"
+          [queryParams]="{ name: zone.name, id: zone.id, type: zone.type }"
+          >{{ zone.name }}</a
+        >
+      </li>
+    </ul>
+  </div>
+</div>
